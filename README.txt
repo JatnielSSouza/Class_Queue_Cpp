@@ -1,4 +1,4 @@
-The files in this folder can be compiled on terminal using:
+The files in this repository can be compiled on terminal using:
 
 $ g++ *.cpp
 
